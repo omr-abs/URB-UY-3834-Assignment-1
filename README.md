@@ -12,10 +12,12 @@
 ![Fireworks Complaints](https://user-images.githubusercontent.com/52751378/135184496-e3cb8f1f-2ec2-4b98-bb55-8fe82dcd9d7a.png)
 
 
-### Map for the percentage of fireworks complaints from all 311 complaints in NYC 
+### Map for the percentage of fireworks complaints from all 311 complaints in NYC for also the same period of time  
 ![Percentage](https://user-images.githubusercontent.com/52751378/135184502-0e9d37e3-4819-4231-b5e3-b52d32c1da78.png)
 
 
 ### Part Two: 
   
   
+### Part Three: 
+
