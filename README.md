@@ -1,5 +1,6 @@
 # URB-UY-3834-Assignment-1
 ## Omar Abdelsalam
+## ota230
 ## 9/29/2021
 ## Professor Vantu 
 
@@ -20,4 +21,4 @@
   The maps represtned above are of the type choropleth which are mostly used to indicate the quantities of certain things in certain locations. Based on the first map, which      represents the number of 311 complaints across NYC in the month of June, 2021, it can be determined that many complaints were concentrated in the Bronx and Queens areas. They are also focused on the north western side of Manhattan and parts of Brooklyn. However, they are most in the Bronx and Queens. Illegal Fireworks complaints are also focused around the same locations as the 311 complaints, but with less intensity around some areas, according to the seocnd map. Midtown Manhattan and a little bit of the lower Manhattan side had the least concentration of illegal fireworks complaints. Based on the third map, illegal fireworks made up most of the 311 complaints in the Bronx and Queens areas. Based on the data provided, we can conclude that 311 complaints and fireworks complaints were moslty concentrated in the Bronx and Queens, but they were also present in other Bouroughs, but at a lower concentratino level. 
   
 ### Part Three: 
-
+  Instead of using a choropleth map, a dot representation or a graduated sympol map can be used. They would better show better location accuracy for the data provided and their locations with repect to borders would be better visualized. A graduated sympol map would not be this different from a choropleth map, but the boundaries would be more visible. A dot representation could also be used to better visualize, but this would necassrily visualize trends in an asthetic way compared to choropleth. 
